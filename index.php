@@ -7,7 +7,7 @@
     <title>Inicio - SecFlix</title>
     <link rel="stylesheet" href="css/indexstyle.css">
     <link rel="shortcut icon" href="images/images_1.jpg">
-</head>
+<head>
 <body>
     <h1 class="titulo">Veja filmes de graça</h1>
 </body>
